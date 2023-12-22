@@ -35,7 +35,7 @@ The Student-Teacher Portal, developed with HTML, CSS, JavaScript, and PHP, offer
 <ul>
 <li>Clone the repository</li>
 <br>
-"git clone https://github.com/reetjain01/Teacher_Student_Portal.git"
+"git clone https://github.com/Tanvi1704/Teacher_Student_Portal.git"
   
 <li>Open the project in your preferred code editor.</li>
 
