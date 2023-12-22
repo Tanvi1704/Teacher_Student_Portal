@@ -18,6 +18,7 @@ The Student-Teacher Portal, developed with HTML, CSS, JavaScript, and PHP, offer
 <li>Dynamic dashboard for teachers.</li>
 <li>Profile, playlist, and video management.</li>
 <li>Monitoring of student interactions.</li>
+<br>
 
 3. Student Page:
 <li>User-friendly interface for playlist and video navigation.</li>
